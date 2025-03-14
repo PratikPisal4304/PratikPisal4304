@@ -43,9 +43,8 @@
 
 ## 🔹 Recent GitHub Activity 🚀  
 
-- 🔥 Working on **Arogya Telemedicine App** using React Native & Firebase.  
-- 📌 Enhancing the **UML Diagram Generator** with AI-based diagram refinement.  
-- 🛠️ Exploring **React Native Reanimated** for smooth animations.  
+- 🔥 Working on **RakshaSetu (WomenSafety App) & Arogya (Telemedicine App)** using React Native & Firebase.  
+- 📌 Enhancing the **UML Diagram Generator** with AI-based diagram refinement.    
 - 👨‍💻 Open to **freelance and collaboration opportunities**.  
 
 ---
