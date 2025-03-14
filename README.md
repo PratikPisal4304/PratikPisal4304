@@ -37,7 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikPisal4304&layout=compact&theme=radical" alt="Top Languages" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratikPisal4304&theme=radical" alt="GitHub Streak" />
-</p>  
+</p>   
 
 ---
 
