@@ -1,26 +1,66 @@
-# Hi there, I'm Pratik Nitin Pisal 👋  
+# Hi there, I'm Pratik Nitin Pisal 👋
 
-🚀 **Frontend & Mobile Developer** | React Native, Flutter, and API Integration Expert  
-
----
-
-## 🔹 About Me  
-
-- 🔧 Passionate about building high-performance **Frontend and Cross-Platform Mobile Applications** with a focus on seamless user experience.  
-- 💡 Exploring the latest in **mobile UI/UX design** and **API Integration** for robust application connectivity.  
-- 🎯 Actively contributing to **open-source projects** and expanding my knowledge in **React Native** and **Flutter**.  
-- 🤝 Open to collaborations on **Frontend, React Native, and Flutter projects** and **cross-platform mobile development**.  
-- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/pratik-pisal-6933542b1)  
+Innovative **Mobile & Web Developer** specializing in **Flutter**, **React Native**, and **React.js**. I build AI-integrated applications and scalable cross-platform solutions.
 
 ---
 
-## 🔹 Tech Stack 🚀  
+## 🔹 About Me
 
-### **Frontend & Mobile** 🟢 **React Native** 🔵 **Flutter**
-🟡 **JavaScript, Dart** ### **Backend & Cloud** 🌐 **API Integration (REST, Axios, Fetch)**
-🔵 **Firebase (Firestore, Auth, Storage, FCM)** ### **DevOps & Tools** 🔴 **Git & GitHub** 🟠 **VS Code, Android Studio** ---
+- 🔧 Experienced in building **enterprise-grade applications** and **consumer-facing PWAs**.
+- 💡 Passionate about **AI integration** (Gemini AI) and **real-time systems** (Socket.io).
+- 🎯 Actively contributing to **open-source** and participating in **hackathons**.
+- 🛠️ Currently architecting an Order Management System for **Aditya Birla Ultratech** at **Bytefuse Projects**.
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/pratik-pisal-6933542b1)
 
-## 🔹 GitHub Stats 📊  
+---
+
+## 🔹 Tech Stack 🚀
+
+### **Languages**
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### **Frameworks & Libraries**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+### **Backend & Cloud**
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+---
+
+## 🔹 Work Experience 💼
+
+**Bytefuse Projects** (Dec 2025 – Present)
+*   **Application & Order Management**: Architecting an enterprise OMS for **Aditya Birla Ultratech**.
+*   **Mauli Marketing PWA**: Engineered an e-commerce platform with **React 19**, **TypeScript**, and **Socket.io** for real-time admin updates.
+
+---
+
+## 🔹 Recent Projects 🚀
+
+### **AyurSpace** 🌿
+*   **AI-Powered Ayurvedic Companion**: Built with **Flutter** & **Riverpod**.
+*   Features **AyurBot** (Gemini AI) and a **Plant Scanner** for identifying medicinal plants.
+
+### **RakshaSetu** 🛡️
+*   **Women’s Safety Ecosystem**: Hackathon winning project.
+*   Dual-interface system with **SOS triggers**, **Live Location Streaming**, and an authority dashboard.
+
+### **UMLDX** 📊
+*   **Text-to-UML Generator**: High-performance tool using **React** & **Mermaid.js**.
+*   Optimized for client-side rendering with instant visual feedback.
+
+---
+
+## 🔹 GitHub Stats 📊
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PratikPisal4304&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -28,19 +68,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikPisal4304&layout=compact&theme=radical" alt="Top Languages" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratikPisal4304&theme=radical" alt="GitHub Streak" />
-</p>  
+</p>
 
 ---
 
-## 🔹 Recent GitHub Activity 🚀  
-
-- 🔥 Working on **RakshaSetu (WomenSafety App) & Arogya (Telemedicine App)** using React Native, **Flutter**, Firebase, and **RESTful APIs**.  
-- 📌 Enhancing the **UML Diagram Generator** with AI-based diagram refinement.  
-- 👨‍💻 Open to **freelance and collaboration opportunities** in frontend and mobile development.  
-
----
-
-## 🔹 Connect with Me 🤝  
+## 🔹 Connect with Me 🤝
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pratik-pisal-6933542b1">
@@ -49,8 +81,4 @@
   <a href="https://github.com/PratikPisal4304">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>  
-
----
-
-🔹 *Feel free to check out my projects and contributions!* 🚀
+</p>
