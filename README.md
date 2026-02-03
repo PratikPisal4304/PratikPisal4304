@@ -62,13 +62,11 @@ Innovative **Mobile & Web Developer** specializing in **Flutter**, **React Nativ
 
 ## 🔹 GitHub Stats 📊
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PratikPisal4304&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratikPisal4304&theme=radical" alt="GitHub Profile Details" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikPisal4304&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PratikPisal4304&theme=radical" alt="GitHub Stats" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=PratikPisal4304&theme=radical" alt="GitHub Streak" />
-</p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PratikPisal4304&theme=radical" alt="Repos per Language" />
 
 ---
 
