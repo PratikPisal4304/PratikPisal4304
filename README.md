@@ -4,7 +4,7 @@
 
 **Software Developer @ Bytefuse**
 
-Building enterprise apps for **Aditya Birla UltraTech Cement** | Flutter · React Native · React.js
+Building enterprise apps | Flutter · React Native · React.js
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-pisal-6933542b1)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PratikPisal4304)
