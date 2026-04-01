@@ -2,7 +2,7 @@
 
 # Hey, I'm Pratik Pisal 👋
 
-**Software Developer @ Bytefuse**
+**Software Developer @ Trinay Solutions LLP**
 
 Building enterprise apps | Flutter · React Native · React.js
 
@@ -18,7 +18,7 @@ Building enterprise apps | Flutter · React Native · React.js
 
 ```yaml
 name: Pratik Nitin Pisal
-role: Software Developer @ Bytefuse
+role: Software Developer @ Trinay Solutions LLP
 education: B.E. Computer Engineering — Pillai HOC College, Panvel (2022–2026)
 focus: Cross-Platform Mobile & Web Development
 currently_building: Enterprise Vendor Portal for Aditya Birla UltraTech Cement
@@ -74,7 +74,7 @@ interests: [AI-Powered Apps, Real-Time Systems, Hackathons, Open Source]
 
 ## � Work Experience
 
-### Bytefuse — Software Developer
+### Trinay Solutions LLP — Software Developer
 **Dec 2025 – Present**
 
 <table>
