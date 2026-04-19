@@ -21,7 +21,7 @@ name: Pratik Nitin Pisal
 role: Software Developer @ Trinay Solutions LLP
 education: B.E. Computer Engineering — Pillai HOC College, Panvel (2022–2026)
 focus: Cross-Platform Mobile & Web Development
-currently_building: Enterprise Vendor Portal for Aditya Birla UltraTech Cement
+currently_building: Enterprise Vendor Portal for Cement Company
 interests: [AI-Powered Apps, Real-Time Systems, Hackathons, Open Source]
 ```
 
@@ -81,9 +81,9 @@ interests: [AI-Powered Apps, Real-Time Systems, Hackathons, Open Source]
   <tr>
     <td width="50%">
       <h4>🏢 Unified Vendor Portal</h4>
-      <p><em>Client: Aditya Birla UltraTech Cement</em></p>
+      <p><em>Client: Leading Cement Company</em></p>
       <p>Enterprise-grade system managing the complete lifecycle of RMC applicators — onboarding, order execution, invoicing & SAP integration.</p>
-      <p><b>Tech:</b> Flutter · Riverpod · REST APIs · SAP · Azure AD</p>
+      <p><b>Tech:</b> Flutter · Riverpod · REST APIs · SAP </p>
     </td>
     <td width="50%">
       <h4>🛒 Mauli Marketing PWA</h4>
